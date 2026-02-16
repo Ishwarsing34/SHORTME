@@ -4,7 +4,7 @@ import QRCode from 'react-qr-code'
 import QRCodegenerator from "qrcode"
 import { Github } from "lucide-react"
 
-const API_BASE_URL = "http://localhost:5000"
+const API_BASE_URL = "https://shortme-omega.vercel.app"
 
 const Home = () => {
 
